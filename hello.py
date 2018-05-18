@@ -7,4 +7,5 @@ def hello():
     return 'Hello in Flask, Python!'
 
 if __name__ == '__main__':
+    print 'hello'
     app.run()
